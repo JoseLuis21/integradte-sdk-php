@@ -1,6 +1,6 @@
 # integrafacturacion-sdk-php
 
-SDK en PHP para consumir la API de [IntegraFacturacion](https://api.integrafacturacion.cl), basado en arquitectura hexagonal.
+SDK en PHP para consumir la API de [IntegraFacturacion](https://integrafacturacion.cl), basado en arquitectura hexagonal.
 
 ## Instalacion
 
